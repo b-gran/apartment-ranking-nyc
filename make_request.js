@@ -3,9 +3,15 @@ const latLngBill = {
   lng: -73.991388,
 }
 
-const latLngCasey = {
+const latLngCaseyOffice = {
   lat: 40.730755,
   lng: -74.007083,
+}
+
+// West 4th Street Subway station
+const latLngCasey = {
+  lat: 40.732316,
+  lng: -74.000517,
 }
 
 const arrivalTimeBill = '2020-02-24T15:15:24.232Z'
