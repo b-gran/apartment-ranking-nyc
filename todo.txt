@@ -1,0 +1,5 @@
+* Boost to high rise
+* Boost to manhattan
+* Filter out some areas (roosevelt island)
+* Worse penalty for Western exposure
+* Less boost for full floor
