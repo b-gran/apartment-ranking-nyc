@@ -12,6 +12,7 @@ shapely = "*"
 scrapy-rotating-proxies = "*"
 scrapy-proxies = "*"
 numpy = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"
