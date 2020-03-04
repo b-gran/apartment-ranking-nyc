@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e2a483edd13ee63f8d5b908f5296d2c03969197f3c0911d53047857081d026f3"
+            "sha256": "d280cb2bfaf55bc85df0b6eafd38041973e1f1daf7fde941b36d3d82fa12dc29"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -213,10 +213,10 @@
         },
         "pyhamcrest": {
             "hashes": [
-                "sha256:36cda5e849e3ee9ce54628667471e5e769f596259bb3c13c3596f6059a615ef8",
-                "sha256:5959cb4ab465b303522d2e0d270a6ee581c3ad9ba419e304bb6ebe50a60ea37a"
+                "sha256:55abfc14ec38ed2bd6093add3be72385c1b7fd8e6aeb27448c00f95cb501c60e",
+                "sha256:9f12b9b3b109d4877b2a1a42a9fb8acbf350213d3b1873eecf6eb07d6ac3caef"
             ],
-            "version": "==2.0.0"
+            "version": "==2.0.1"
         },
         "pyopenssl": {
             "hashes": [
@@ -247,6 +247,21 @@
             ],
             "index": "pypi",
             "version": "==1.8.0"
+        },
+        "scrapy-proxies": {
+            "hashes": [
+                "sha256:5bfe4101cfde8f5a16f00cc942e4d5993cb55d2620d37a7ce3781b9388c20f22"
+            ],
+            "index": "pypi",
+            "version": "==0.4"
+        },
+        "scrapy-rotating-proxies": {
+            "hashes": [
+                "sha256:cb068c13ca7d44787bb444e2edfd609669c942a32b5e4b338949a009fd5ca160",
+                "sha256:f9cb6318011a4bdbb25b0e132b2dbcad01ea40eccceb1b3475c6bb4a0aef0e40"
+            ],
+            "index": "pypi",
+            "version": "==0.6.2"
         },
         "service-identity": {
             "hashes": [
@@ -311,6 +326,14 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==19.10.0"
+        },
+        "typing": {
+            "hashes": [
+                "sha256:91dfe6f3f706ee8cc32d38edbbf304e9b7583fb37108fef38229617f8b3eba23",
+                "sha256:c8cabb5ab8945cd2f54917be357d134db9cc1eb039e59d1606dc1e60cb1d9d36",
+                "sha256:f38d83c5a7a7086543a0f649564d661859c5146a85775ab90c0d2f93ffaa9714"
+            ],
+            "version": "==3.7.4.1"
         },
         "urllib3": {
             "hashes": [

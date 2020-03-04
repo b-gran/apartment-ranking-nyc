@@ -9,6 +9,8 @@ verify_ssl = true
 scrapy = "*"
 requests = "*"
 shapely = "*"
+scrapy-rotating-proxies = "*"
+scrapy-proxies = "*"
 
 [requires]
 python_version = "3.7"
