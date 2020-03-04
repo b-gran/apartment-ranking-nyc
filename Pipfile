@@ -11,6 +11,7 @@ requests = "*"
 shapely = "*"
 scrapy-rotating-proxies = "*"
 scrapy-proxies = "*"
+numpy = "*"
 
 [requires]
 python_version = "3.7"
